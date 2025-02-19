@@ -1,2 +1,4 @@
 .env
 node_modules/
+supersecret.txt
+db.txt
